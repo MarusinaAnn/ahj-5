@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/MarusinaAnn/ahj-4/actions/workflows/web.yml/badge.svg)
 
-github-pages deployment - https://MarusinaAnn.github.io/ahj-5/
+github-pages deployment - https://marusinaann.github.io/ahj-5/
 
 
 # Домашнее задание к занятию "Работа с HTML-формами"
